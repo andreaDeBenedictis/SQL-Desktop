@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZQLru6+jO41JkyRZMJavwY+1uIfOKlXreubtSLaQnyqPvvXcRPrXnozjaeJ34Vft3jMbNi6qROmzIIcwnOXqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deben\\OneDrive\\Documenti\\Informatica\\SQL_AndreaDeBenedictis_5H\\Sql_AndreaDeBenedictis_5H\\Sql\\Sql\\Sql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deben\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\deben\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

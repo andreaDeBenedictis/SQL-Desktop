@@ -1,0 +1,22 @@
+#Informazioni di tutti i clienti
+SELECT * FROM Clienti
+
+#Tutti gli ordini per il corriere @PAR1@
+SELECT * FROM Ordini
+WHERE Corriere = @PAR1@
+
+#Tutti gli ordini dell'impiegato @PAR2@
+SELECT * FROM Ordini
+WHERE IDImpiegato = @PAR2@
+
+#Tutti i clienti provenienti da @PAR3@
+SELECT * FROM Clienti
+WHERE Paese = @PAR3@
+
+#Numero totale dei fornitori
+SELECT COUNT(*) FROM Fornitori
+
+#Tutti i prodotti sospesi
+SELECT * FROM Prodotti
+WHERE Sospeso = true
+
